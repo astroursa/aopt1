@@ -2,7 +2,7 @@
     "customizations": {
       "codespaces": {
         "repositories": {
-          "astroursa.github.io": {
+          "astroursa/astroursa.github.io": {
             "permissions": "write-all"
           }
         }
