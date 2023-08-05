@@ -1,0 +1,12 @@
+{
+    "customizations": {
+      "codespaces": {
+        "repositories": {
+          "astroursa.github.io": {
+            "permissions": "write-all"
+          }
+        }
+      }
+    }
+  }
+  
